@@ -1,0 +1,54 @@
+body{
+  background-image: url("assets/coding.jpg")
+}
+.fullpage{
+  background-color:#555;
+  height:600px;
+  margin: 20px 300px 0px 300px;
+}
+.img{
+  height: 200px;
+  width: 180px;
+  border-radius:110px;
+  margin:5px 50px ;
+}
+.name{
+  margin-right: 75%;
+  margin-left: 30px;
+  background-color:whitesmoke;
+  font-weight:bold;
+  padding: 0px 10px 0px 10px;
+  }
+hr{
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-top: 2px;
+  background-color:white;
+}
+.alldv{
+  background-color: #FFD07F;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 17px;
+}
+.langskill{
+  background-color: #FFCCD2;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 17px;
+}
+.hobby{
+  background-color: #FFE699;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 17px;
+}
