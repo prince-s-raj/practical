@@ -234,7 +234,10 @@ iframe {
     align-items: unset;
     gap: 1%;
 }
+.user-inp .btn{
+    margin-top: -10px;
 
+}
 
 
 
